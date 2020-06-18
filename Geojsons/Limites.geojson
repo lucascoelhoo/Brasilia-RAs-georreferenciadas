@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Limites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -48.359075382813486, -15.459651874206941 ], [ -47.240067064318971, -15.468997597615973 ], [ -47.242006420156912, -16.129589069744288 ], [ -48.372650873679106, -16.120273777435099 ], [ -48.359075382813486, -15.459651874206941 ] ] ] ] } }
+]
+}
